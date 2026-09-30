@@ -1,2 +1,2 @@
-// Set to false when the full Marisoft website is ready to go public....
+// Set to false when the full Marisoft website is ready to go public.
 window.MARISOFT_CONFIG = { UNDER_CONSTRUCTION: false };
