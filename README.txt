@@ -1,12 +1,27 @@
-MARISOFT STATIC SITE
+MARISOFT WEBSITE - RETRO EDITION
+================================
 
-Upload this ZIP/folder to Cloudflare Pages.
+Static early-2000s-inspired website. No framework or build process is required.
 
-Under-construction switch:
-Open config.js and change:
+Files:
+  index.html
+  style.css
+  config.js
+  app.js
+
+The public site is currently set to UNDER CONSTRUCTION.
+
+To reveal the complete website, change in config.js:
+
   UNDER_CONSTRUCTION: true
-to:
-  UNDER_CONSTRUCTION: false
-to reveal the initial normal site.
 
-No framework, server, database or build process is required.
+to:
+
+  UNDER_CONSTRUCTION: false
+
+Commit the files to the root of the GitHub repository. Cloudflare Pages settings
+remain: framework = None, build command = empty, output directory = .
+
+The full design uses a compact fixed-width desktop layout, small Verdana/Arial
+type, blue navigation, thin borders, a What's New column and information-dense
+software listings. It remains responsive on narrow/mobile screens.

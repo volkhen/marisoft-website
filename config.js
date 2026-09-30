@@ -1,2 +1,2 @@
-// Set to false to reveal the normal site.
-window.MARISOFT_CONFIG = { UNDER_CONSTRUCTION: false };
+// Set to false when the full Marisoft website is ready to go public.
+window.MARISOFT_CONFIG = { UNDER_CONSTRUCTION: true };
